@@ -1,0 +1,232 @@
+<html>
+<head>
+<title>Acts of Gord - The Book of Annoyances</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFF2ba" text="#380e03" link="#cc8b06" vlink="#cc8b06" alink="#cc8b06" background="../backlight.gif">
+<table width="740" border="0">
+  <tr>
+    <td>
+      <table align="left" width="170" border="0">
+        <tr>
+          <td> 
+            <p>
+            <img polygon=" (128,2) (126,44) (100,44) (71,21) (72,2) chapter2.php" src="../ltlink/link.gif" border="0" usemap="#Map" width="132" height="101"> 
+              <br>
+              <br>
+              <a href="../Annoy">
+              <img src="../ltlink/annoy.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Wrath">
+              <img src="../ltlink/wrath.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Villainy">
+              <img src="../ltlink/villain.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Vengeance">
+              <img src="../ltlink/vengeanc.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Propaganda">
+              <img src="../ltlink/propogan.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Victory">
+              <img src="../ltlink/victory.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Proclamations">
+              <img src="../ltlink/proclaim.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Chronicles">
+              <img src="../ltlink/chronicl.gif" border="0" width="169" height="40"></a><br>
+              <br>
+              <a href="../Justice">
+              <img src="../ltlink/justice.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <img src="chapter1.gif" align="left" width="60" height="110"><font size="-1">Oh 
+            the memories of running a game store....</font></p>
+            <p>
+            <font size="-1">...well, that's all of them.</font><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <img src="../ltlink/link.gif" usemap="#Map" border="0" width="132" height="101"> </p>
+</td>
+        </tr>
+      </table>
+      <table align="right" width="520" border="0">
+        <tr>
+          <td><center>
+              <p><img src="title.gif" width="363" height="110"></p>
+            </center>
+              
+            <p>
+              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              Twenty-One</font></p>
+              
+            <p><br>
+              <font size="+1">
+            <img border="0" src="../ltletter/d.gif" width="31" height="37">on't 
+            Announce Your Evil Plans To The World!</font></p>
+            <center><table width="90%" border="0">
+              <tr>
+                <td>
+                  <p class="MsoNormal"><span lang="EN-US">&nbsp;</span>&quot;If someone 
+                  rents something and doesn't bring it back, what do you do?&quot;</p>
+                  <p class="MsoNormal"><i>&quot;The account is forwarded to 
+                  collections.&quot;</i></p>
+                  <p class="MsoNormal">&quot;Ah, ok then.&nbsp; I'd like to rent 
+                  these four games for a night please.&quot;</p>
+                  <p class="MsoNormal">Gord sees that all the games are new 
+                  releases, and multi-CD games.</p>
+                  <p class="MsoNormal"><i>&quot;Do you have an account?&quot;</i></p>
+                  <p class="MsoNormal">&quot;Nope, what do you need.&quot;</p>
+                  <p class="MsoNormal"><i>&quot;ID and a credit card.&quot;</i></p>
+                  <p class="MsoNormal">&quot;Why a credit card?&quot;</p>
+                  <p class="MsoNormal"><i>&quot;Take a guess.&nbsp; In a book, it's 
+                  called foreshadowing.&quot;</i></td>
+              </tr>
+            </table></center>
+            <p><br>
+              <br>
+              <br>
+            <img border="0" src="../ltletter/m.gif" width="30" height="37"><font size="+1">ore 
+            Notes From The Computer</font></p>
+            <center><table width="90%" border="0" height="154">
+              <tr>
+                <td height="150">
+                  <p class="MsoNormal"><span lang="EN-US">Tetris Plus &amp; Rage 
+                  Racer not returned! </span>Moved. Product Replaced
+                  <span lang="EN-US">6/14/98</span></p>
+                  <p class="MsoNormal"><span lang="EN-US">Forwarded to 
+                  collections 6/20/98</span></p>
+                  <p class="MsoNormal"><span lang="EN-US">Returned 7/4/98 - 
+                  blames roommate</span></p>
+                  <p class="MsoNormal"><span lang="EN-US">Shaun, dazzled by her 
+                  remarkable looks claimed&nbsp; “no problem!” and waived her late 
+                  charges.&nbsp;</span>Now I have extra copies of the games, and no 
+                  money from late charges.<span lang="EN-US"> </span></p>
+                  <p class="MsoNormal">Memo:<span lang="EN-US"> Shaun is to be 
+                  beaten at a future time.</span>&nbsp;&nbsp;
+                  <span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+                  </td>
+              </tr>
+            </table></center>
+            <p><br>
+              <br>
+            </p>
+            <p><img border="0" src="../ltletter/j.gif" width="31" height="37"><font size="+1">ust 
+            Sort Of Odd...</font></p>
+            <center><table width="90%" border="0">
+              <tr> 
+                <td> 
+                  <p class="MsoNormal"><span lang="EN-US">Called 6/6/98 - Left 
+                  message with </span>occupant regarding MLB '99 late..</p>
+                  <p class="MsoNormal"><span lang="EN-US">Called 6/9/98 - Told 
+                  no longer live there, and</span> <span lang="EN-US">that game 
+                  was returned sans ins</span>tructions.</p>
+                  <p class="MsoNormal"><span lang="EN-US">Called 6/</span>10<span lang="EN-US">/98 
+                  - Told contradictory story.</span></p>
+                  <p class="MsoNormal"><span lang="EN-US">Called 6/16/98 - 
+                  Talked to mother-no progress-</span> she warned
+                  <span lang="EN-US">not to call back.&nbsp; (no one cares)</span></p>
+                  <p class="MsoNormal">Called 6/18/98 - Informed mother we would 
+                  call once a day, and that we would place her number on the 
+                  wall and let random customers call her to remind her of the 
+                  game not being returned.</p>
+                  <p><span lang="EN-US" style="font-family: Times New Roman">
+                  6/1</span><span style="font-family: Times New Roman">9</span><span lang="EN-US" style="font-family: Times New Roman">/98 - MLB ‘99 returned </span>
+                  </td>
+              </tr>
+            </table></center>
+            <p><br>
+              <img border="0" src="../ltletter/i.gif" width="31" height="37">t's 
+            Just Not Worth It.</p>
+            <center>
+              <table width="90%" border="0">
+                <tr> 
+                  <td> 
+                    &quot;That Risk I rented is cool.&nbsp; Can you order me one to 
+                    buy?&quot;<p><i>&quot;Not really.&nbsp; Infogrammes decided in their 
+                    infinite wisdom that if people were buying their old games 
+                    that were good, consumers wouldn't buy the new games that 
+                    aren't so good.&nbsp; I may be able to special order one 
+                    from the U.S., but it won't be cheap compared to the $30 I 
+                    used to sell them for.&quot;</i></p>
+                    <p>&quot;I hear I just lost the rental copy.&quot;</p>
+                    <p><i>&quot;I hear your credit card just got billed $100.&quot;</i></p>
+                    <p>&quot;I hear I'll pay $1 and keep it one more day.&quot;</td>
+                </tr>
+              </table>
+            </center>
+            <p><br>
+            </p>
+			
+            <center>
+              <table width="90%" border="0" height="1">
+                <tr> 
+                  <td height="1"> 
+            </td>
+                </tr>
+              </table>
+            </center>
+            <p>
+            <img border="0" src="../ltletter/y.gif" width="32" height="37">esterday's 
+            Games</p>
+            <center>
+			<table width="90%" border="0">
+              <tr>
+                <td>
+                  <p>&quot;Why don't you rent Genesis games?&quot;</p>
+                  <p><i>&quot;Because the average Genesis game costs $5 to buy.&nbsp; 
+                  The only ones that people would want to rent would be the rare 
+                  ones that would become a lot more rare as  people rented 
+                  them and claimed to have lost them.&quot;</i></p>
+                  <p>&quot;There is a lot of money to be made in renting older games 
+                  like that.&quot;</p>
+                  <p><i>&quot;No there isn't.&nbsp; If there was, more people would 
+                  be doing it.&quot;</i></p>
+                  <p>&quot;You don't have very good business sense.&quot;</p>
+                  <p><i>&quot;I'm sorry, what qualifications do you have to pass 
+                  informed judgements on my abilities to run a business?&nbsp; 
+                  Or do you believe that because my opinion differs from yours, 
+                  that you must be right?&nbsp; Not withstanding the obvious 
+                  that I am the one with the business.&quot;</i></p>
+                  <p>&quot;I'd rent them.&nbsp; I'd be a big customer.&nbsp; So would 
+                  everyone else.&quot;</p>
+                  <p><i>&quot;Your tales of delusion lack interest or creativity.&nbsp; 
+                  If your owning of a 10 year old console is the best you can 
+                  afford, then I would suggest the claims that you would be a 
+                  big customer to be that of a fallacy.&quot;</i></p>
+                  <p>&quot;I'm not going to rent anything from you.&quot;</p>
+                  <p><i>&quot;At this time I'd like to point out that I have nothing 
+                  you can rent.&nbsp; Door's to your left.&quot;</i></p>
+            </td>
+              </tr>
+            </table>
+            </center>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="740" border="0"><tr><td width="170">&nbsp;</td></tr></table><map name="Map"> 
+  <area shape="circle" coords="68, 48, 23" href="../index.php">
+  <area shape="poly" coords="3, 4, 59, 4, 60, 19, 33, 50, 4, 51, 4, 59" href="chapter20.php">
+  <area shape="poly" coords="59, 75, 38, 55, 5, 55, 5, 98, 59, 98" href="../index.php">
+  <area href="chapter22.php" shape="polygon" coords="127, 96, 126, 48, 102, 48, 71, 75, 73, 96">
+  <area href="../Wrath" shape="polygon" coords="128, 2, 126, 44, 100, 44, 71, 21, 72, 2">
+  <area href="../Wrath" shape="default">
+  <area href="../Wrath" coords="0, 0, 10000, 10000" shape="rect">
+</map>
+</body>
+</html>

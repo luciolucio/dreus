@@ -1,0 +1,213 @@
+<html>
+<head>
+<title>Acts of Gord - The Book of Chronicles</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFF2ba" text="#380e03" link="#cc8b06" vlink="#cc8b06" alink="#cc8b06" background="../backlight.gif">
+<table width="740" border="0">
+  <tr>
+    <td>
+      <table align="left" width="170" border="0">
+        <tr>
+          <td> 
+            <p><img src="../ltlink/link.gif" usemap="#Map" border="0" width="132" height="101"> 
+              <br>
+              <br>
+              <a href="../Annoy">
+              <img src="../ltlink/annoy.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Wrath">
+              <img src="../ltlink/wrath.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Villainy">
+              <img src="../ltlink/villain.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Vengeance">
+              <img src="../ltlink/vengeanc.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Propaganda">
+              <img src="../ltlink/propogan.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Victory">
+              <img src="../ltlink/victory.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Proclamations">
+              <img src="../ltlink/proclaim.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Chronicles">
+              <img src="../ltlink/chronicl.gif" border="0" width="169" height="40"></a><br>
+              <br>
+              <a href="../Justice">
+              <img src="../ltlink/justice.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <img src="chapter1.gif" align="left" width="60" height="110"><font size="-1">What would 
+            the guy who runs the store and has seen the movie know? .</font><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              &nbsp;</p>
+            <p>
+              <br>
+              <br>
+              <br>
+              <img src="../ltlink/link.gif" usemap="#Map" border="0" width="132" height="101"> 
+            </p>
+</td>
+        </tr>
+      </table>
+      <table align="right" width="520" border="0">
+        <tr>
+          <td><center>
+              <p><img src="title.gif" width="363" height="110"></p>
+            </center>
+              
+            <p>
+              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              Twelve</font></p>
+              
+            <p><br>
+              <font size="+1"><img border="0" src="../ltletter/n.gif" width="31" height="37">inja 
+            Scroll</font></p>
+            <center><table width="90%" border="0">
+              <tr>
+                <td>
+                  <table cellSpacing="0" cellPadding="0" border="0">
+                    <tr>
+                      <td vAlign="top" align="left" width="438" colSpan="7" height="756">
+                      <table cellSpacing="0" cellPadding="0" border="0" width="441">
+                        <tr>
+                          <td vAlign="top" align="left" width="437" height="748">
+                  <p align="left"><font face="Times New Roman">Ninja Scroll is a 
+                  very dark, bloody, overly violent anime movie with some sexual 
+                  content.&nbsp; It's actually quite good, and definitely not 
+                  a family movie.<br>
+                  <br>
+                  So when a 10 and an 11 year old try to rent it, the Gord in 
+                  his all knowing ways declines to rent to them and suggest they 
+                  find a more appropriate movie.<br>
+                  <br>
+                  They depart to get their father waiting in the car, and he is 
+                  very unimpressed that the Gord wouldn't rent this violent 
+                  movie to them.<br>
+                  <br>
+                  &quot;I don't believe I had to come in here just so they could rent 
+                  a cartoon!&quot;<br>
+                  <br>
+                  <i>&quot;Well, the movie is inappropriate for children.&quot;<br>
+                  </i><br>
+                  &quot;Just give me the movie.&quot;<br>
+                  <br>
+                  <i>&quot;If you want, but sir, I must warn you the movie is 
+                  exceptionally violent and has material inappropriate for 
+                  children.&quot;<br>
+                  </i><br>
+                  Well he was having none of this.&nbsp; A cartoon is a cartoon, so 
+                  he rents it and leaves…<br>
+                  <br>
+                  … only to return an hour later!<br>
+                  <br>
+                  &quot;What the hell is this?&nbsp; You rented pornography to my kids!&quot;<br>
+                  <br>
+                  <i>&quot;Actually sir, you rented an inappropriate movie for your 
+                  kids, not I.&nbsp; I warned you.&quot;<br>
+                  </i><br>
+                  &quot;I demand my money back!&quot;<br>
+                  <br>
+                  <i>&quot;Sure.&nbsp; &quot;<br>
+                  </i><br>
+                  &quot;I demand you close my account!&quot;<br>
+                  <br>
+                  <i>&quot;Sure.&quot;<br>
+                  </i><br>
+                  &quot;I demand you pay me $50!&quot;<br>
+                  <br>
+                  <i>&quot;I don't think so there Tim.&quot;<br>
+                  </i><br>
+                  &quot;Pay me or I'll call the police!&quot;<br>
+                  <i><br>
+                  &quot;For being a bad parent?&quot;<br>
+                  </i><br>
+                  &quot;On you!&quot;<br>
+                  <i><br>
+                  &quot;On me because you're a bad parent?&nbsp; That's a pretty big 
+                  jump.&quot;<br>
+                  </i><br>
+                  &quot;I'm never coming back.&quot;<br>
+                  <i><br>
+                  &quot;Sounds great to me.&quot;<br>
+                  </i><br>
+                  &quot;I said I'm never coming back.&quot;<br>
+                  <br>
+                  <i>&quot;Yep.&nbsp; Heard you the first time.&quot;<br>
+                  </i><br>
+                  &quot;Aren't you going to try and keep me?&quot;<br>
+                  <br>
+                  <i>&quot;Why?&quot;<br>
+                  </i><br>
+                  &quot;Because I'm a good customer.&quot;<br>
+                  <br>
+                  <i>&quot;No, no you're not.&nbsp; You're the type of customer who has 
+                  lead to the world being one where you blame others for your 
+                  mistakes and errors in judgment.&quot;<br>
+                  </i><br>
+                  &quot;So no free rentals?&quot;<br>
+                  <br>
+                  <i>&quot;No.&nbsp; No free rentals.&quot;</i></font><p align="left">
+                  <font face="Times New Roman">&quot;Fine.&nbsp; I'll just rent this 
+                  then.&nbsp; Is it appropriate?&quot;<br>
+                  <br>
+                  <i>&quot;Yes, that movie is fine.&quot;<br>
+                  </i><br>
+                  And buddy then left and returned a reformed parent.&nbsp; <br>
+                  <br>
+                  And the Gord spoke: <br>
+                  <br>
+                  <i>Let them be put to shame and confusion who seek my games! 
+                  Let them be turned back and brought to dishonour who desire my 
+                  blame!&nbsp; Let them be appalled because of their shame who say, 
+                  &quot;It's your fault!&quot; May all who seek thee rejoice and be glad 
+                  in thee! May those who love thy salvation say evermore, &quot;Gord 
+                  is great!&quot; </i></font></td>
+                          <td width="4">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td height="3" width="437"></td>
+                          <td colSpan="2" width="4">&nbsp;</td>
+                        </tr>
+                      </table>
+                      </td>
+                      <td>&nbsp;</td>
+                    </tr>
+                  </table>
+&nbsp;<p>. 
+                  </p>
+            </td>
+              </tr>
+            </table></center>
+            <p><br>
+              &nbsp;</p>
+            <center>
+            <p>&nbsp;</p>
+          </center>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="740" border="0"><tr><td width="170">&nbsp;</td></tr></table><map name="Map"> 
+  <area shape="circle" coords="68, 48, 23" href="../index.php">
+  <area shape="poly" coords="3, 4, 59, 4, 60, 19, 33, 50, 4, 51, 4, 59" href="chapter11.php">
+  <area shape="poly" coords="59, 75, 38, 55, 5, 55, 5, 98, 59, 98" href="../Proclamations">
+  <area href="chapter13.php" shape="polygon" coords="127, 96, 126, 48, 102, 48, 71, 75, 73, 96">
+  <area href="../Justice" shape="polygon" coords="128, 2, 126, 44, 100, 44, 71, 21, 72, 2">
+  <area href="chapter13.php" shape="default">
+  <area href="chapter13.php" coords="0, 0, 10000, 10000" shape="rect">
+</map>
+</body>
+</html>

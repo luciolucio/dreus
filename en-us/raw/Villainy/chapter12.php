@@ -1,0 +1,155 @@
+<html>
+<head>
+<title>Acts of Gord - The Book of Villainy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFF2ba" text="#380e03" link="#cc8b06" vlink="#cc8b06" alink="#cc8b06" background="../backlight.gif">
+<table width="740" border="0">
+  <tr>
+    <td>
+      <table align="left" width="170" border="0">
+        <tr>
+          <td> 
+            <p><img src="../ltlink/link.gif" usemap="#Map" border="0" width="132" height="101"> 
+              <br>
+              <br>
+              <a href="../Annoy">
+              <img src="../ltlink/annoy.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Wrath">
+              <img src="../ltlink/wrath.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Villainy">
+              <img src="../ltlink/villain.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Vengeance">
+              <img src="../ltlink/vengeanc.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Propaganda">
+              <img src="../ltlink/propogan.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Victory">
+              <img src="../ltlink/victory.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Proclamations">
+              <img src="../ltlink/proclaim.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Chronicles">
+              <img src="../ltlink/chronicl.gif" border="0" width="169" height="40"></a><br>
+              <br>
+              <a href="../Justice">
+              <img src="../ltlink/justice.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <img src="chapter1.gif" align="left" width="60" height="110"><font size="-1">When planning 
+            to rob a store, be sure to case the place first.&nbsp; Never skip 
+            classes when going to crime school.</font><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <img src="../ltlink/link.gif" usemap="#Map" border="0" width="132" height="101"> 
+            </p>
+</td>
+        </tr>
+      </table>
+      <table align="right" width="520" border="0">
+        <tr>
+          <td><center>
+              <p><img src="title.gif" width="363" height="110"></p>
+            </center>
+              
+            <p>
+              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              Twelve</font></p>
+              
+            <p><br>
+              <img border="0" src="../ltletter/s.gif" width="31" height="37"><font size="+1">elling 
+            What Is Not Theirs.</font></p>
+            <center><table width="90%" border="0">
+              <tr>
+                <td>
+                  &lt;Ring&gt;<p><i>&quot;Gamer's Edge.&quot;</i></p>
+                  <p>&quot;Gord, it's Eric.&nbsp; Seems someone brought in one of 
+                  your Dreamcasts into my pawn shop yesterday.&nbsp; You want to 
+                  come and check to see if it's yours?&nbsp; The game that came 
+                  with it definitely was.&quot;</p>
+                  <p>And Gord went down to the pawn shop that was a block away.&nbsp; 
+                  Sure enough, it was one of Gords.&nbsp; </p>
+                  <p>The unit had been rented by our friend Steven.&nbsp; Steven 
+                  had been a good customer for over a year.&nbsp; Always rented, 
+                  paid late fees, never a problem.&nbsp; He had often rented 
+                  hardware without a deposit as he was such a frequent customer.</p>
+                  <p>Seems he woke up stupid that particular day.</p>
+                  <p>Anyway, Gord phones Steven.&nbsp; Gord had talked to him a 
+                  couple days prior about the Dreamcast being late, as it was 
+                  due back 4 days prior.</p>
+                  <p>&quot;Hello?&quot;</p>
+                  <p><i>&quot;Steven, it's Gord from Gamer's Edge.&nbsp; How are ya?&quot;</i></p>
+                  <p>&quot;Oh, pretty good.&quot;</p>
+                  <p><i>&quot;So how's Blue Stinger?&quot;</i></p>
+                  <p>&quot;It's great, I'm stuck in this one spot though.&nbsp; But 
+                  I'm having fun.&quot;</p>
+                  <p><i>&quot;Oh really?&quot;</i></p>
+                  <p>&quot;Yep.&nbsp; I've been playing all week.&quot;</p>
+                  <p><i>&quot;I'm going to need that unit back today as I've got a 
+                  reservation on it.&nbsp; Can you bring it back before 7?&quot;</i></p>
+                  <p>&quot;Well, I'm playing it right now.&nbsp; And I don't want to 
+                  quit if I can help it.&quot;</p>
+                  <p><i>&quot;You're playing it right now?&quot;</i></p>
+                  <p>&quot;Yep.&nbsp; Right up until you called.&quot;</p>
+                  <p><i>&quot;That's bizarre.&nbsp; Because the Dreamcast and game 
+                  are down at a pawn shop.&nbsp; How very odd indeed. &quot;</i></p>
+                  <p>&lt;Dramatic pause&gt;</p>
+                  <p>&quot;Uhm, no it isn't.&quot;</p>
+                  <p><i>&quot;Yes, yes it is.&nbsp; I confirmed the serial #'s 
+                  already.&nbsp; Plus your name and ID were on the pawn slip.&quot;</i></p>
+                  <p>&quot;Uhm....&quot;</p>
+                  <p><i>&quot;Okay, this is how things are going to work.&nbsp; You 
+                  are going to go down to the pawn shop and pay the money you 
+                  owe on the unit, then the owner of the pawn shop is going to 
+                  give me a call and I'll be picking it up.&nbsp; Now, if I 
+                  don't have that phone call in two hours, I'm going to be 
+                  phoning the police.&nbsp; They'll go get me my unit back, and 
+                  you'll be criminally charged.&quot;</i></p>
+                  <p>&quot;But... but...&quot;</p>
+                  <p><i>&quot;But nothing!&nbsp; This is not a negotiation.&nbsp; 
+                  Those are the terms to be followed if you want to stay out of 
+                  jail.&nbsp; You now have slightly less than two hours to solve 
+                  this quandary you've started.&nbsp; Good day.&quot;</i></p>
+                  <p>An hour later Gord got his phone call from the pawn shop to 
+                  pick up his stuff.&nbsp; Steven did not want to go to jail it 
+                  would appear.</p>
+                  <p>&nbsp;</td>
+              </tr>
+            </table></center>
+            <p><br>
+              &nbsp;</p>
+            <center>
+            <p>&nbsp;</p>
+          </center>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="740" border="0"><tr><td width="170">&nbsp;</td></tr></table><map name="Map"> 
+  <area shape="circle" coords="68, 48, 23" href="../index.php">
+  <area shape="poly" coords="3, 4, 59, 4, 60, 19, 33, 50, 4, 51, 4, 59" href="chapter11.php">
+  <area shape="poly" coords="59, 75, 38, 55, 5, 55, 5, 98, 59, 98" href="../Wrath">
+  <area href="chapter13.php" shape="polygon" coords="127, 96, 126, 48, 102, 48, 71, 75, 73, 96">
+  <area href="../Vengeance" shape="polygon" coords="128, 2, 126, 44, 100, 44, 71, 21, 72, 2">
+  <area href="../Vengeance" shape="default">
+  <area href="../Vengeance" coords="0, 0, 10000, 10000" shape="rect">
+</map>
+</body>
+</html>

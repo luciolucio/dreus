@@ -1,0 +1,241 @@
+<html>
+<head>
+<title>Acts of Gord - The Book of Chronicles</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFF2ba" text="#380e03" link="#cc8b06" vlink="#cc8b06" alink="#cc8b06" background="../backlight.gif">
+<table width="740" border="0">
+  <tr>
+    <td>
+      <table align="left" width="170" border="0">
+        <tr>
+          <td> 
+            <p><img src="../ltlink/link.gif" usemap="#Map" border="0" width="132" height="101"> 
+              <br>
+              <br>
+              <a href="../Annoy">
+              <img src="../ltlink/annoy.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Wrath">
+              <img src="../ltlink/wrath.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Villainy">
+              <img src="../ltlink/villain.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Vengeance">
+              <img src="../ltlink/vengeanc.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Propaganda">
+              <img src="../ltlink/propogan.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Victory">
+              <img src="../ltlink/victory.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Proclamations">
+              <img src="../ltlink/proclaim.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Chronicles">
+              <img src="../ltlink/chronicl.gif" border="0" width="169" height="40"></a><br>
+              <br>
+              <a href="../Justice">
+              <img src="../ltlink/justice.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <img src="chapter1.gif" align="left" width="60" height="110"><font size="-1">If one 
+            doesn't want to pay the higher price on a rare, collectable game, 
+            then simply don't buy it.&nbsp; It's not that complicated of&nbsp; a 
+            concept.</font><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              &nbsp;</p>
+            <p>
+              <br>
+              <br>
+              <br>
+              <img src="../ltlink/link.gif" usemap="#Map" border="0" width="132" height="101"> 
+            </p>
+</td>
+        </tr>
+      </table>
+      <table align="right" width="520" border="0">
+        <tr>
+          <td><center>
+              <p><img src="title.gif" width="363" height="110"></p>
+            </center>
+              
+            <p>
+              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              Thirty Three</font></p>
+              
+            <p><br>
+              <img border="0" src="../ltletter/b.gif" width="32" height="37"><font size="+1">lame Sega</font></p>
+            <center><table width="90%" border="0">
+              <tr>
+                <td>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;I'm looking for a 
+                  game I can't find anywhere.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;You're in luck.&nbsp; I do a lot of special orders of hard to find 
+                  games.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;It's a rare game, 
+                  I don't know if you can find it.&quot;&nbsp;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;It's not a question of whether or not I can get it; it's a 
+                  question of whether you can afford it if it's truly rare and 
+                  desirable.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;Panzer Dragoon 
+                  Saga.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;$135.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;What!&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;I have an extra copy I brought in for a customer that he 
+                  never picked up, despite paying a deposit for it.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;You're kidding!&nbsp; 
+                  You're a rip-off!&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;No, he's had eight weeks to pick it up.&nbsp; I'll leave the 
+                  deposit as a credit on his account.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;I mean the price!&nbsp; 
+                  I'm not paying that much for a game.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;Very well then, you won't be buying the game.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;I'll give you 
+                  $40.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;By $40, you mean $140?&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;No, $40.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;That's quite alright.&nbsp; It's not wise to run a business where 
+                  everything is sold at a loss.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;You'll never sell 
+                  it at that price!&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&lt;customer leaves&gt;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&lt;customer returns 
+                  that evening&gt;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;I was thinking 
+                  about that Panzer Dragoon Saga.&nbsp; I'll give you $50 for it, tax 
+                  included?&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;So $44 plus tax is your offer?&nbsp; How kind of you, raising your 
+                  offer an entire $4 towards a game you are trying to get at 
+                  less than a third of the asked price.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;Fine, $50 plus 
+                  tax.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;Alas, I do not have the authority to negotiate in this 
+                  matter.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;What do you mean?&nbsp; 
+                  Don't you own this place?&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;Yes, but I do not own the game anymore.&nbsp; See that person over 
+                  there; he bought the game a few minutes ago for $135.&nbsp; You may 
+                  want to offer your pittance of $57 to him, he may accept.&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">&quot;Can you order me 
+                  another copy?&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman; font-style: italic">
+                  &quot;For the low, low price of $140.&nbsp; How many do you want?&quot;</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">Footnote:&nbsp; 
+                  This entire conversation could not have happened and many more 
+                  souls could have been given the opportunity to play this great 
+                  game had Sega of America bothered to produce more than 5000 
+                  copies, especially after Sega had completely sold out on the 
+                  first day.&nbsp; THANKS GUYS!</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">Sadly, Sega felt it 
+                  was more important that people think happy thoughts of the 
+                  last Sega Saturn games released from them were all magical and 
+                  full of love, especially if they never play them as rumours 
+                  would spread of the furthest and create the largest image of 
+                  greatness, so that when they launched the Dreamcast gamers 
+                  everywhere will remember fondly how great Sega's games are and 
+                  buy the system like no tomorrow.</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">WOW!&nbsp; THAT 
+                  PLAN SURE WORKED&nbsp; THANKS GUYS!</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">The rant continues:</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">Copy protection on 
+                  a Sony PlayStation game is on the inner most track of the CD, 
+                  using two entire sectors of data which takes up only a 
+                  fraction of the space of the copy protection of a Sega Saturn 
+                  game.</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">Sega, on the other 
+                  hand, hates second hand game sales, game rentals, and consumer 
+                  rights in general.&nbsp; So they produced their copy 
+                  protection on the outside track of a Sega Saturn game that 
+                  encompasses the entire ring.&nbsp; To what purpose?&nbsp; 
+                  Mathematically and statistically, this is the most damaged 
+                  part of a CD.&nbsp; It increases the surface area that may be 
+                  damaged (the outer rim is most likely to be bent or broken) 
+                  and it's the best place to put copy protection that will fail 
+                  the fastest.</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">Dear Saturn 
+                  Bomberman, the greatest Bomberman to ever grace this world, I 
+                  love you.&nbsp; Yet I can't play you because the copy 
+                  protection was damaged while the rest of the game remains 
+                  untouched.&nbsp; Oh Sega, why do you taunt us so by refusing 
+                  to make more copies available of games people want?</span></p>
+                  <p class="MsoNormal" style="text-autospace: none">
+                  <span style="font-family: Times New Roman">Yet Sega of America 
+                  wonders why they have never posted a profit since 1994.</span></td>
+              </tr>
+            </table></center>
+            <p><br>
+              &nbsp;</p>
+            <center>
+            <p>&nbsp;</p>
+          </center>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="740" border="0"><tr><td width="170">&nbsp;</td></tr></table><map name="Map"> 
+  <area shape="circle" coords="68, 48, 23" href="../index.php">
+  <area shape="poly" coords="3, 4, 59, 4, 60, 19, 33, 50, 4, 51, 4, 59" href="chapter32.php">
+  <area shape="poly" coords="59, 75, 38, 55, 5, 55, 5, 98, 59, 98" href="../Proclamations">
+  <area href="chapter34.php" shape="polygon" coords="127, 96, 126, 48, 102, 48, 71, 75, 73, 96">
+  <area href="../Justice" shape="polygon" coords="128, 2, 126, 44, 100, 44, 71, 21, 72, 2">
+  <area href="chapter27.php" shape="default">
+  <area href="chapter27.php" coords="0, 0, 10000, 10000" shape="rect">
+</map>
+</body>
+</html>
