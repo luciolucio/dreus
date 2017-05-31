@@ -1,41 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-
 And yet if he killed him, he'd be the one going to jail...
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Oh the brilliance that the Gord has to do deal with on a regular basis. Stupidity truly knows no bounds. Tragic yet true.
@@ -122,8 +85,3 @@ Wherein The Gord is saddened greatly.
  
 
 He who loves transgression loves strife; he who makes his door high seeks destruction. A man of crooked mind does not prosper, and one with a perverse tongue falls into calamity. A stupid son is a grief to a father; and the father of a fool has no joy. Thus spoke the Gord!
-
- 
-
- 
- 
