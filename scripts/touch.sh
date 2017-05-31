@@ -130,3 +130,11 @@ touch Wrath/chapter01.md
 touch Wrath/chapter02.md
 touch Wrath/chapter03.md
 touch Wrath/chapter04.md
+
+mkdir Apocalypse
+touch Apocalypse/index.md
+touch Apocalypse/chapter01.md
+touch Apocalypse/chapter02.md
+touch Apocalypse/chapter03.md
+touch Apocalypse/chapter04.md
+touch Apocalypse/chapter05.md
