@@ -1,0 +1,181 @@
+<html>
+<head>
+<title>Acts of Gord - The Book of Chronicles</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFF2ba" text="#380e03" link="#cc8b06" vlink="#cc8b06" alink="#cc8b06" background="../backlight.gif">
+<table width="740" border="0">
+  <tr>
+    <td>
+      <table align="left" width="170" border="0">
+        <tr>
+          <td> 
+            <p><img src="../ltlink/link.gif" usemap="#Map" border="0" width="132" height="101"> 
+              <br>
+              <br>
+              <a href="../Annoy">
+              <img src="../ltlink/annoy.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Wrath">
+              <img src="../ltlink/wrath.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Villainy">
+              <img src="../ltlink/villain.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Vengeance">
+              <img src="../ltlink/vengeanc.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Propaganda">
+              <img src="../ltlink/propogan.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Victory">
+              <img src="../ltlink/victory.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Proclamations">
+              <img src="../ltlink/proclaim.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Chronicles">
+              <img src="../ltlink/chronicl.gif" border="0" width="169" height="40"></a><br>
+              <br>
+              <a href="../Justice">
+              <img src="../ltlink/justice.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <img src="chapter1.gif" align="left" width="60" height="110"><font size="-1">So they broke 
+            a game.&nbsp; Pony up and pay for it.&nbsp; At least then they won't 
+            have your credit shot over a game they don't even own. </font><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <img src="../ltlink/link.gif" usemap="#Map" border="0" width="132" height="101"> 
+            </p>
+</td>
+        </tr>
+      </table>
+      <table align="right" width="520" border="0">
+        <tr>
+          <td><center>
+              <p><img src="title.gif" width="363" height="110"></p>
+            </center>
+              
+            <p>
+              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              Eleven</font></p>
+              
+            <p><br>
+              <font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">he Heat 
+            Comes Down On The Operation!</font></p>
+            <center><table width="90%" border="0">
+              <tr>
+                <td>
+                  <font face="Times New Roman">So back in the day Gran Turismo 
+                  was 'da bomb' and everyone wanted it.&nbsp; With eight copies, it 
+                  was a huge rental.&nbsp; Anyway, one of the copies got stolen in 
+                  October.<br>
+                  <br>
+                  So the Gord opens a new copy and it is rented to a new 
+                  account.<br>
+                  <br>
+                  Game comes back looking like it was carved and used to serve 
+                  drinks on.&nbsp; Here are the main conversational points from the 
+                  conversations...<br>
+                  <br>
+                  &lt;Conversation one&gt;<br>
+                  <br>
+                  &quot;That CD was like that when we got it.&quot;<br>
+                  <br>
+                  <i>&quot;No, no it wasn't.&nbsp; You were the first ones to rent it.&quot;<br>
+                  </i><br>
+                  &quot;Oh, well my husband will be in to pay for it.&quot;<br>
+                  <br>
+                  &lt;Conversation two&gt;<br>
+                  <br>
+                  &quot;I'm not paying for the game unless I can keep the game!&nbsp; I 
+                  want to make sure you aren't making this up!&quot;<br>
+                  <br>
+                  <i>&quot;Sure.&nbsp; You can have it.&quot;<br>
+                  </i><br>
+                  &quot;Oh, well my husband will be in to pay for it.&quot;<br>
+                  <br>
+                  &lt;Conversation three&gt;<br>
+                  <br>
+                  &quot;I'm not paying for the game unless I can keep the games AND 
+                  the case!&quot;<br>
+                  <br>
+                  <i>&quot;Sure.&nbsp; You can have them both.&nbsp; They're sitting in a 
+                  drawer.&quot;<br>
+                  </i><br>
+                  &lt;Conversation four&gt;<br>
+                  <br>
+                  &quot;First you said the game was wrecked, and now you say it 
+                  doesn't work!&nbsp; Why are you exaggerating the damage?!&quot;<br>
+                  <br>
+                  <i>&quot;Ma'am, you destroyed the game.&nbsp; You owe for the game.&nbsp; End 
+                  of story.&nbsp; I'm sorry if my choice of adjectives is 
+                  confusing.&quot;<br>
+                  </i><br>
+                  &quot;If you ever want your money, you'll have to sue.&quot;<br>
+                  <br>
+                  <i>&quot;Fine.&nbsp; I'll get the paperwork in order and filed.&quot;<br>
+                  </i><br>
+                  &quot;We'll see you in court!&quot;<br>
+                  <br>
+                  <i>&quot;Ok.&quot;<br>
+                  </i><br>
+                  &quot;What?&nbsp; You can't sue!&quot;<br>
+                  <br>
+                  <i>&quot;Why not?&quot;<br>
+                  </i><br>
+                  &quot;Because… because…&quot;<br>
+                  <i><br>
+                  &quot;I see you've put a lot of thought into this plan.&quot;<br>
+                  </i><br>
+                  &lt;click&gt;<br>
+                  <br>
+                  Anyway, two days later I get a wonderfully handcrafted letter 
+                  from her that would put a six year old to shame if they wrote 
+                  it.&nbsp; My god, it was one giant paragraph explaining why she was 
+                  right and I was wrong.&nbsp; I will find this letter and scan it 
+                  for so you can see it.&nbsp; It was truly god awful.<br>
+                  <br>
+                  And the Gord did what he does best, he wrote back.<br>
+                  <br>
+                  <b>&quot;I have received your letter dated June 14, 1999.&nbsp; In this 
+                  letter, besides highlighting your apparent third grade writing 
+                  level, you deny any liability on your part for the damage done 
+                  to the game (Gran Turismo) that you rented.&quot;<br>
+                  </b><br>
+                  You can just imagine the rest….&nbsp; Thus spoke the Gord!</font></td>
+              </tr>
+            </table></center>
+            <p><br>
+              &nbsp;</p>
+            <center>
+            <p>&nbsp;</p>
+          </center>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="740" border="0"><tr><td width="170">&nbsp;</td></tr></table><map name="Map"> 
+  <area shape="circle" coords="68, 48, 23" href="../index.php">
+  <area shape="poly" coords="3, 4, 59, 4, 60, 19, 33, 50, 4, 51, 4, 59" href="chapter10.php">
+  <area shape="poly" coords="59, 75, 38, 55, 5, 55, 5, 98, 59, 98" href="../Proclamations">
+  <area href="chapter12.php" shape="polygon" coords="127, 96, 126, 48, 102, 48, 71, 75, 73, 96">
+  <area href="../Justice" shape="polygon" coords="128, 2, 126, 44, 100, 44, 71, 21, 72, 2">
+  <area href="chapter12.php" shape="default">
+  <area href="chapter12.php" coords="0, 0, 10000, 10000" shape="rect">
+</map>
+</body>
+</html>

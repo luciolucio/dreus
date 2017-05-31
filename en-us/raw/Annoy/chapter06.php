@@ -1,0 +1,323 @@
+<html>
+<head>
+<title>Acts of Gord - The Book of Annoyances</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFF2ba" text="#380e03" link="#cc8b06" vlink="#cc8b06" alink="#cc8b06" background="../backlight.gif">
+<table width="740" border="0">
+  <tr>
+    <td>
+      <table align="left" width="170" border="0">
+        <tr>
+          <td> 
+            <p>
+            <img polygon=" (128,2) (126,44) (100,44) (71,21) (72,2) chapter2.php" src="../ltlink/link.gif" border="0" usemap="#Map" width="132" height="101"> 
+              <br>
+              <br>
+              <a href="../Annoy">
+              <img src="../ltlink/annoy.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Wrath">
+              <img src="../ltlink/wrath.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Villainy">
+              <img src="../ltlink/villain.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Vengeance">
+              <img src="../ltlink/vengeanc.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Propaganda">
+              <img src="../ltlink/propogan.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Victory">
+              <img src="../ltlink/victory.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Proclamations">
+              <img src="../ltlink/proclaim.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <a href="../Chronicles">
+              <img src="../ltlink/chronicl.gif" border="0" width="169" height="40"></a><br>
+              <br>
+              <a href="../Justice">
+              <img src="../ltlink/justice.gif" border="0" width="170" height="40"></a><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <img src="chapter1.gif" align="left" width="60" height="110"><font size="-1">How is it 
+            that so many people have but one goal in life, and that one goal is 
+            to annoy me?</font><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <img src="../ltlink/link.gif" usemap="#Map" border="0" width="132" height="101"> 
+            </p>
+</td>
+        </tr>
+      </table>
+      <table align="right" width="520" border="0">
+        <tr>
+          <td><center>
+              <p><img src="title.gif" width="363" height="110"></p>
+            </center>
+              
+            <p>
+              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Six</font></p>
+              
+            <p><br>
+              <font size="+1"><img border="0" src="../ltletter/e.gif" width="31" height="37">veryone 
+            Wants To Share In The Love!</font></p>
+            <center><table width="90%" border="0">
+              <tr>
+                <td>
+                  <font face="Times New Roman">&quot;Excuse me... I'm trying to play 
+                  the machine here, and I've hit reset 3 times, but it's not 
+                  working.&quot;<br>
+                  <br>
+                  <i>&quot;That would be because there is nothing in the machine.&quot;<br>
+                  </i><br>
+                  &quot;Why not?&quot; <br>
+                  <br>
+                  <i>&quot;Because I'm leaving it alone for now. &quot;<br>
+                  </i><br>
+                  &quot;But I want to play!&quot; <br>
+                  <br>
+                  <i>&quot;That's nice. Do you even have an account here?&quot;<br>
+                  </i><br>
+                  &quot;No.. But I'll be renting something one day.&quot; <br>
+                  <br>
+                  <i>&quot;Then one day I'll let you play on the big screen for 
+                  free.&quot;</i></font></td>
+              </tr>
+            </table></center>
+            <p><br>
+              <br>
+              <br>
+            <font size="+1"><img border="0" src="../ltletter/i.gif" width="31" height="37">t's Only 
+            Dumb If You're Caught</font></p>
+            <center><table width="90%" border="0">
+              <tr>
+                <td>
+                  <font face="Times New Roman">Person walks in and decides he 
+                  really wants to rent Resident Evil 3.&nbsp; So he goes up to the 
+                  rental cases on the wall and sees that they are all rented.&nbsp; 
+                  But that didn't deter him!&nbsp; He took off a rented tag and moved 
+                  that tag onto another game, then proceeded to bring the game 
+                  to the counter.<br>
+                  <br>
+                  &quot;I'd like to rent this game please.&quot;<br>
+                  <br>
+                  <i>&quot;I'm sorry, all the copies of Resident Evil 3 are out.&quot;</i><br>
+                  <br>
+                  &quot;Then you owe me a free rental!&quot;<br>
+                  <br>
+                  <i>&quot;And why is that?&quot;</i><br>
+                  <br>
+                  &quot;Because this game was untagged and you made me waste my 
+                  time.&nbsp; I really wanted to rent it.&quot;<br>
+                  <br>
+                  <i>&quot;It was only untagged because you untagged it.&quot;<br>
+                  </i><br>
+                  &lt;pause&gt;<br>
+                  <br>
+                  &quot;No free rental?&quot;<br>
+                  <br>
+                  <i>&quot;No free rental.&quot;</i></font></td>
+              </tr>
+            </table></center>
+            <p><br>
+              <br>
+            </p>
+            <p><font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">ry Before 
+            You Buy!</font></p>
+            <center><table width="90%" border="0">
+              <tr> 
+                <td> 
+                  <font face="Times New Roman">&quot;Before I buy this game, I'd like 
+                  to play it please.&quot;<br>
+                  <br>
+                  <i>&quot;I suggest you rent it then.&quot;<br>
+                  </i><br>
+                  &quot;You should let me play it for free.&quot;<br>
+                  <br>
+                  <i>&quot;Really?&quot;<br>
+                  </i><br>
+                  &quot;Yes.&quot;<br>
+                  <br>
+                  <i>&quot;So you feel that you would be better informed if I let you 
+                  play it for free for a couple minutes rather than playing it 
+                  at home for a few hours?&quot;<br>
+                  </i><br>
+                  &quot;If you don't let me play it, I won't buy it.&quot;<br>
+                  <br>
+                  <i>&quot;Given that I overheard you telling your friend you only 
+                  had $10 till Friday and that you heard you can play games here 
+                  for free if you pretend to be buying a game, I would suggest 
+                  that I have in fact lost nothing.&quot;<br>
+                  </i><br>
+                  &quot;I could buy the game if I wanted to!&quot;<br>
+                  <br>
+                  <i>&quot;Fine.&nbsp; Make you a deal.&nbsp; You buy the game, and I'll let 
+                  you play it here for a couple hours.&nbsp; If you don't like it, 
+                  I'll refund your money.&quot;<br>
+                  </i><br>
+                  &quot;err…&quot;<br>
+                  <br>
+                  <i>&quot;My point exactly.&nbsp; In the future, don't lie to me.&quot;</i></font></td>
+              </tr>
+            </table></center>
+            <p><br>
+              <br>
+              <br>
+              <img border="0" src="../ltletter/a.gif" width="31" height="37"><font size="+1">nd 
+            Gord's The 
+            Rip-Off</font></p>
+            <center>
+              <table width="90%" border="0">
+                <tr> 
+                  <td> 
+                    <font face="Times New Roman">&quot;How much can I get for this 
+                    game?&quot; <br>
+                    <br>
+                    <i>&quot;A three year old baseball game?&quot;</i><br>
+                    <br>
+                    &quot;One year.&quot; <br>
+                    <br>
+                    <i>&quot;It's Triple Play 98. I have 2001's in stock.&quot;</i><br>
+                    <br>
+                    &quot;Oh. How much? And cash, not credit.&quot; <br>
+                    <br>
+                    <i>&quot;About $4.&quot;</i><br>
+                    <br>
+                    &quot;what? But it's sealed! And I paid $70 for it last week!&quot;
+                    <br>
+                    <br>
+                    <i>&quot;Then you got ripped off. 2001's are $49. Want one?&quot;</i><br>
+                    <br>
+                    &quot;How about $30?&quot;<br>
+                    <br>
+                    <i>&quot;How about I can buy those for less than $10 each, 
+                    including shipping. Notwithstanding that it will never 
+                    sell. People don't want 3 year old baseball games unless 
+                    they are exceptionally cheap.&quot;</i><br>
+                    <br>
+                    &quot;How about $20?&quot; <br>
+                    <br>
+                    <i>&quot;I see... So when I said I can get them for less than 
+                    $10, why would I possibly pay you more than that for your 
+                    copy?&quot;</i><br>
+                    <br>
+                    &quot;You're a rip-off!&quot; <br>
+                    <br>
+                    <i>&quot;That's right. I'm a rip-off. As compared to the 
+                    hypothetical establishment you purchased that game from last 
+                    week for $70. But if it makes you feel better, the door is 
+                    to your left and you can watch the sun set slowly in the 
+                    distance as you leave.&nbsp; Perhaps that will help calm your 
+                    soul and bring you inner happiness. Have a good day.&quot;</i></font></td>
+                </tr>
+              </table>
+            </center>
+            <p><br>
+              <br>
+            </p>
+            <p><font size="+1"><img border="0" src="../ltletter/w.gif" width="31" height="37">hy Aren't 
+            My Stolen Games Worth More?</font></p>
+			
+            <center>
+              <table width="90%" border="0" height="1">
+                <tr> 
+                  <td height="1"> 
+                    <p><font face="Trebuchet MS" size="2">&quot;Excuse me. What's 
+                    this copy of Final Fantasy 9 worth?&quot; <br>
+                    <br>
+                    (The game is in rental cases, stickers peeled off from Microplay, no box, just the CD's, and the game only came out 
+                    a couple weeks prior.) <br>
+                    <br>
+                    <i>&quot;Uhm... Not much. Being I don't really sell PlayStation 
+                    games without their boxes.&quot;</i><br>
+                    <br>
+                    How about $30?&quot; <br>
+                    <br>
+                    <i>&quot;How about $5.&quot;</i><br>
+                    <br>
+                    &quot;$5 per disc?&quot;<br>
+                    <br>
+                    <i>&quot;No.&quot;</i><br>
+                    <br>
+                    &quot;I think I'll take my business elsewhere.&quot; <br>
+                    <br>
+                    <i>&quot;You do that.&quot;</i></font></p>
+            </td>
+                </tr>
+              </table>
+            </center>
+            <p>&nbsp;</p>
+            <p><img border="0" src="../ltletter/w.gif" width="31" height="37"><font size="+1">hy Aren't 
+            Parts Free?</font></p>
+            <center>
+			<table width="90%" border="0">
+              <tr>
+                <td>
+                  <p><font face="Trebuchet MS" size="2">Gord had one guy bitch 
+                  because it only took him 5 minutes to replace a defective 
+                  controller port on his PSX. <br>
+                  <br>
+                  &quot;Will you take $10?&quot; <br>
+                  <br>
+                  <i>&quot;Uhm. No. It's $20. We discussed this before I even 
+                  started.&quot;</i><br>
+                  <br>
+                  &quot;But it only took you five minutes!&quot; <br>
+                  <br>
+                  <i>&quot;Yes. It was simply a controller port replacement.&quot;</i><br>
+                  <br>
+                  &quot;I'm not paying $20 for five minutes work!&quot; <br>
+                  <br>
+                  <i>&quot;Then I'll take it out and put back in the broken one.&quot;</i><br>
+                  <br>
+                  &quot;No! Wait! What's it cost to buy the part by itself?&quot; <br>
+                  <br>
+                  <i>&quot;They're $20. Installation is free.&quot;</i><br>
+                  <br>
+                  &quot;That's a fucking ripoff!&quot; <br>
+                  <br>
+                  <i>&quot;Oh, ok. I'll just put in the old part then.&quot;</i><br>
+                  <br>
+                  &quot;Fine! I'll pay the $20!&quot; <br>
+                  <br>
+                  <i>&quot;$22.80 sir. There's tax.&quot;</i><br>
+                  <br>
+                  &quot;Fucking tax. Twenty fucking dollars for 5 minutes work.&quot;<br>
+                  <br>
+                  <i>&quot;Sir, that was $20 for a replacement part with free 
+                  installation. Here's your unit, here's your change, and have a 
+                  nice day.&quot;</i></font></p>
+            </td>
+              </tr>
+            </table>
+            </center>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="740" border="0"><tr><td width="170">&nbsp;</td></tr></table><map name="Map"> 
+  <area shape="circle" coords="68, 48, 23" href="../index.php">
+  <area shape="poly" coords="3, 4, 59, 4, 60, 19, 33, 50, 4, 51, 4, 59" href="chapter05.php">
+  <area shape="poly" coords="59, 75, 38, 55, 5, 55, 5, 98, 59, 98" href="../index.php">
+  <area href="chapter07.php" shape="polygon" coords="127, 96, 126, 48, 102, 48, 71, 75, 73, 96">
+  <area href="../Wrath" shape="polygon" coords="128, 2, 126, 44, 100, 44, 71, 21, 72, 2">
+  <area href="chapter07.php" shape="default">
+  <area href="chapter07.php" coords="0, 0, 10000, 10000" shape="rect">
+</map>
+</body>
+</html>
