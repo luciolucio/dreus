@@ -68,11 +68,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Eighteen</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/i.gif" width="31" height="37">'m Sorry, 
+              <font size="+1">I'm Sorry, 
             I Don't Care For Annoying Non-Paying Customers.</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -105,7 +105,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">ost of 
+              <font size="+1">Cost of 
             Commerce</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -141,7 +141,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/m.gif" width="30" height="37">ore 
+            <p><font size="+1">More 
             Master Hackers!</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -170,7 +170,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/d.gif" width="31" height="37">oes No One 
+              <font size="+1">Does No One 
             Care About What the Sign Says?</font></p>
             <center>
               <table width="90%" border="0">
@@ -194,7 +194,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/i.gif" width="31" height="37">t's So 
+            <p><font size="+1">It's So 
             Good, I Want To Trade In Mine!</font></p>
 			
             <center>

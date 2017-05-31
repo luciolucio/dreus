@@ -68,10 +68,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Two</font></p>
+              <font size="+1">Chapter Two</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/u.gif" width="31" height="37">sed 
+              <font size="+1">Used 
             Controllers </font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -124,7 +124,7 @@
             <p><br>
               <br>
               <br>
-              <img border="0" src="../ltletter/w.gif" width="31" height="37"><font size="+1">hat's to 
+              W<font size="+1">hat's to 
             Understand?</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -149,7 +149,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/m.gif" width="30" height="37">y Mom is 
+            <p><font size="+1">My Mom is 
             Never Wrong!</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -179,7 +179,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/d.gif" width="31" height="37">amn You 
+              <font size="+1">Damn You 
             and Your Proof!</font></p>
             <center>
               <table width="90%" border="0">
@@ -223,7 +223,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/s.gif" width="31" height="37">ome 
+            <p><font size="+1">Some 
             People Just Don't Understand</font></p>
 			
             <center>

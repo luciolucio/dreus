@@ -68,10 +68,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter One</font></p>
+              <font size="+1">Chapter One</font></p>
               
             <p><br>
-              <font size="+1"><img src="../ltletter/w.gif" width="31" height="37">here Do They Come From? </font></p>
+              <font size="+1">Where Do They Come From? </font></p>
             <center><table width="90%" border="0">
               <tr>
                 <td>
@@ -90,7 +90,7 @@
             <p><br>
               <br>
               <br>
-              <img src="../ltletter/i.gif" width="31" height="37"> <font size="+1">'m 
+              I <font size="+1">'m 
               A Master Hacker! Can I Have Free Stuff?</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -118,7 +118,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img src="../ltletter/h.gif" width="31" height="37">ang Around With Idiots to Look Smarter!</font></p>
+            <p><font size="+1">Hang Around With Idiots to Look Smarter!</font></p>
             <center><table width="90%" border="0">
               <tr> 
                 <td> 
@@ -141,7 +141,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img src="../ltletter/t.gif" width="31" height="37">rust Me!</font></p>
+              <font size="+1">Trust Me!</font></p>
             <center>
               <table width="90%" border="0">
                 <tr> 
@@ -159,7 +159,7 @@
             <p><br>
               <br>
             </p>
-            <p><img src="../ltletter/e.gif" width="31" height="37"><font size="+1">instein He Is Not</font></p>
+            <p>E<font size="+1">instein He Is Not</font></p>
 			
             <center>
               <table width="90%" border="0">
@@ -180,7 +180,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><font size="+1"><img src="../ltletter/w.gif" width="31" height="37">hy Buy New?</font></p>
+            <p><font size="+1">Why Buy New?</font></p>
             <center>
 			<table width="90%" border="0">
               <tr>

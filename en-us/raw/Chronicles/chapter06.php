@@ -68,10 +68,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Six</font></p>
+              <font size="+1">Chapter Six</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/w.gif" width="31" height="37">hen Paying 
+              <font size="+1">When Paying 
             For The Case, I Get A Free Game, Right?</font></p>
             <center><table width="90%" border="0" height="850">
               <tr>

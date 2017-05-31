@@ -68,10 +68,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Two</font></p>
+              <font size="+1">Chapter Two</font></p>
               
             <p><br>
-              <img border="0" src="../ltletter/t.gif" width="31" height="37"><font size="+1">he Gord 
+              T<font size="+1">he Gord 
             Goes 2 and 0.</font></p>
             <center><table width="90%" border="0">
               <tr>

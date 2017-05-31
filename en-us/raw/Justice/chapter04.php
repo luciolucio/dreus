@@ -68,11 +68,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Four</font></p>
               
             <p><br>
-              <img border="0" src="../ltletter/y.gif" width="32" height="37"><font size="+1">ou Can't 
+              Y<font size="+1">ou Can't 
             Do Anything To Me!</font></p>
             <center><table width="90%" border="0">
               <tr>

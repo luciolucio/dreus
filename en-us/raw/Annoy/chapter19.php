@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Nineteen</font></p>
               
             <p><br>
-              <font size="+1"><img src="../ltletter/w.gif" width="31" height="37">hy Do They Lie?</font></p>
+              <font size="+1">Why Do They Lie?</font></p>
             <center><table width="90%" border="0">
               <tr>
                 <td>
@@ -114,7 +114,7 @@
             <p><br>
               <br>
               <br>
-            <font size="+1"><img border="0" src="../ltletter/h.gif" width="31" height="37">ow About We 
+            <font size="+1">How About We 
             Don't Smoke?</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -141,7 +141,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/a.gif" width="31" height="37">sk An 
+            <p><font size="+1">Ask An 
             Honest Question, Get An Honest Answer</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -153,7 +153,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img src="../ltletter/t.gif" width="31" height="37">rouble with Signs</font></p>
+              <font size="+1">Trouble with Signs</font></p>
             <center>
               <table width="90%" border="0">
                 <tr> 
@@ -178,7 +178,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/m.gif" width="30" height="37">ore Free 
+            <p><font size="+1">More Free 
             Rental Madness</font></p>
 			
             <center>
@@ -198,7 +198,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">alling It 
+            <p><font size="+1">Calling It 
             As I See It</font></p>
             <center>
 			<table width="90%" border="0">

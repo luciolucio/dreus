@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Nine</font></p>
               
             <p><br>
-              <img border="0" src="../ltletter/m.gif" width="30" height="37"><font size="+1">y Brain 
+              M<font size="+1">y Brain 
             Hurts</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -103,7 +103,7 @@
             <p><br>
               <br>
               <br>
-            <img border="0" src="../ltletter/m.gif" width="30" height="37"><font size="+1">y Brain 
+            M<font size="+1">y Brain 
             Still Hurts!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -130,7 +130,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/p.gif" width="32" height="37">ost-Dated 
+            <p><font size="+1">Post-Dated 
             Madness!</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -151,7 +151,7 @@
             <p><br>
               <br>
               <br>
-              <img border="0" src="../ltletter/s.gif" width="31" height="37"><font size="+1">tolen 
+              S<font size="+1">tolen 
             Rental Game Love Action!</font></p>
             <center>
               <table width="90%" border="0">
@@ -194,7 +194,7 @@
             <p><br>
               <br>
             </p>
-            <p><img border="0" src="../ltletter/t.gif" width="31" height="37"><font size="+1">he $14 
+            <p>T<font size="+1">he $14 
             PlayStation</font></p>
 			
             <center>
@@ -230,7 +230,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><img border="0" src="../ltletter/m.gif" width="30" height="37"><font size="+1">issing A 
+            <p>M<font size="+1">issing A 
             Part</font></p>
             <center>
 			<table width="90%" border="0">

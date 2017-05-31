@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Four</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/w.gif" width="31" height="37">here's My 
+              <font size="+1">Where's My 
             Book?</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -108,7 +108,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/f.gif" width="31" height="37">alse 
+              <font size="+1">False 
             Advertising</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -150,7 +150,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/e.gif" width="31" height="37">nd of the 
+            <p><font size="+1">End of the 
             Circle</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -179,7 +179,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/g.gif" width="32" height="37">ame Nazi!</font></p>
+              <font size="+1">Game Nazi!</font></p>
             <center>
               <table width="90%" border="0">
                 <tr> 
@@ -195,7 +195,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/s.gif" width="31" height="37">peak 
+            <p><font size="+1">Speak 
             Softly and Whine.</font></p>
 			
             <center>

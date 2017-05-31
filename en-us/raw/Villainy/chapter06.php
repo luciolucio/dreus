@@ -68,10 +68,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Six</font></p>
+              <font size="+1">Chapter Six</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/b.gif" width="32" height="37">rilliant 
+              <font size="+1">Brilliant 
             Thieves Wanted!&nbsp; Apply Within.</font></p>
             <center><table width="90%" border="0">
               <tr>

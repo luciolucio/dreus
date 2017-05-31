@@ -69,12 +69,12 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Twenty-Two</font></p>
               
             <p><br>
               <font size="+1">
-            <img border="0" src="../ltletter/s.gif" width="31" height="37">ometimes 
+            Sometimes 
             A Song Is Just A Song</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -92,7 +92,7 @@
               </tr>
             </table></center>
             <p><font size="+1">
-            <img border="0" src="../ltletter/b.gif" width="32" height="37">eware 
+            Beware 
             of Slippery Slopes</font></p>
             <center><table width="90%" border="0" height="154">
               <tr>
@@ -120,7 +120,7 @@
               <br>
             </p>
             <p><font size="+1">
-            <img border="0" src="../ltletter/t.gif" width="31" height="37">ruth 
+            Truth 
             In Advertising</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -137,7 +137,7 @@
             </table></center>
             <p><br>
               <font size="+1">
-            <img border="0" src="../ltletter/t.gif" width="31" height="37">ransmorgification!</font></p>
+            Transmorgification!</font></p>
             <center>
               <table width="90%" border="0">
                 <tr> 
@@ -198,7 +198,7 @@
             </center>
             <p>
             <font size="+1">
-            <img border="0" src="../ltletter/w.gif" width="31" height="37">arning Signs</font></p>
+            Warning Signs</font></p>
             <center>
 			<table width="90%" border="0">
               <tr>

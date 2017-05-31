@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Seven</font></p>
               
             <p><br>
-              <img border="0" src="../ltletter/m.gif" width="30" height="37"><font size="+1">ore Mod 
+              M<font size="+1">ore Mod 
             Chip Madness!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -117,7 +117,7 @@
             <p><br>
               <br>
               <br>
-            <img border="0" src="../ltletter/d.gif" width="31" height="37"><font size="+1">amn It!&nbsp; 
+            D<font size="+1">amn It!&nbsp; 
             Day Ruined!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -172,7 +172,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/b.gif" width="32" height="37">ut I Paid 
+            <p><font size="+1">But I Paid 
             $100!</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -207,7 +207,7 @@
             <p><br>
               <br>
               <br>
-              <img border="0" src="../ltletter/t.gif" width="31" height="37"><font size="+1">he Madness 
+              T<font size="+1">he Madness 
             Continues!</font></p>
             <center>
               <table width="90%" border="0">
@@ -228,7 +228,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/w.gif" width="31" height="37">hy Yes, I 
+            <p><font size="+1">Why Yes, I 
             Give More For Games In Trade Than What They Sell For New...</font></p>
 			
             <center>
@@ -270,7 +270,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">hings 
+            <p><font size="+1">Things 
             Have Different Prices...</font></p>
             <center>
 			<table width="90%" border="0">

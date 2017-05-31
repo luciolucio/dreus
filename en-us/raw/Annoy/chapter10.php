@@ -69,10 +69,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Ten</font></p>
+              <font size="+1">Chapter Ten</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/n.gif" width="31" height="37">intendo 
+              <font size="+1">Nintendo 
             Makes You Stupid</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -122,7 +122,7 @@
             <p><br>
               <br>
               <br>
-            <img border="0" src="../ltletter/s.gif" width="31" height="37"><font size="+1">ome People 
+            S<font size="+1">ome People 
             Need A Job</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -148,7 +148,7 @@
             <p><br>
               <br>
             </p>
-            <p><img border="0" src="../ltletter/b.gif" width="32" height="37"><font size="+1">ut... 
+            <p>B<font size="+1">ut... 
             It's Cash!</font></p>
             <center><table width="90%" border="0" height="363">
               <tr> 
@@ -179,7 +179,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">etris!</font></p>
+              <font size="+1">Tetris!</font></p>
             <center>
               <table width="90%" border="0">
                 <tr> 
@@ -216,7 +216,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/i.gif" width="31" height="37">t Never 
+            <p><font size="+1">It Never 
             Ends!&nbsp; Damn it!</font></p>
 			
             <center>
@@ -258,7 +258,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><font size="+1"><img border="0" src="../ltletter/w.gif" width="31" height="37">ho Are 
+            <p><font size="+1">Who Are 
             You?!&nbsp; And Why Are You Wearing A Red Shirt?</font></p>
             <center>
 			<table width="90%" border="0">

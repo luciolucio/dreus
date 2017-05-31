@@ -68,11 +68,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Five</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">he Heat 
+              <font size="+1">The Heat 
             Comes Down On The Operation!</font></p>
             <center><table width="90%" border="0">
               <tr>

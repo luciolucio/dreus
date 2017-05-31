@@ -67,11 +67,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Nineteen</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/b.gif" width="32" height="37">etween A 
+              <font size="+1">Between A 
             Rock And A Hard Place.</font></p>
             <center><table width="90%" border="0">
               <tr>

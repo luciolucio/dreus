@@ -68,11 +68,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Nine</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/d.gif" width="31" height="37">on't You 
+              <font size="+1">Don't You 
             Dare Hang Up On Me!</font></p>
             <center><table width="90%" border="0">
               <tr>

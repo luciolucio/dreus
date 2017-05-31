@@ -67,10 +67,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter One</font></p>
+              <font size="+1">Chapter One</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">he Sign</font></p>
+              <font size="+1">The Sign</font></p>
             <center><table width="90%" border="0">
               <tr>
                 <td>
@@ -92,7 +92,7 @@
             <p><br>
               <br>
               <br>
-              <img border="0" src="../ltletter/m.gif" width="30" height="37"><font size="+1">od Chips</font></p>
+              M<font size="+1">od Chips</font></p>
             <center><table width="90%" border="0">
               <tr>
                 <td>
@@ -130,7 +130,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/f.gif" width="31" height="37">ear the 
+            <p><font size="+1">Fear the 
             Gord!</font></p>
             <center><table width="90%" border="0">
               <tr> 

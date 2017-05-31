@@ -68,12 +68,12 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Fourteen</font></p>
               
             <p><br>
               <font size="+1">
-            <img border="0" src="../ltletter/n.gif" width="31" height="37">ext 
+            Next 
             Time, Steal A Good Game</font></p>
             <center><table width="90%" border="0">
               <tr>

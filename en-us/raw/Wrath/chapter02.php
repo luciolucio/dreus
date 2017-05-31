@@ -68,10 +68,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Two</font></p>
+              <font size="+1">Chapter Two</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">he Trap!</font></p>
+              <font size="+1">The Trap!</font></p>
             <center><table width="90%" border="0">
               <tr>
                 <td>

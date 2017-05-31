@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Twenty-Three</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/i.gif" width="31" height="37">
+              <font size="+1">I
             have a Book</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -92,7 +92,7 @@
               </tr>
             </table></center>
             <p>
-            <font size="+1"><img border="0" src="../ltletter/o.gif" width="31" height="37">ddity</font></p>
+            <font size="+1">Oddity</font></p>
             <center><table width="90%" border="0" height="154">
               <tr>
                 <td height="150">
@@ -115,7 +115,7 @@
             </table></center>
             <p>&nbsp;</p>
             <p>
-            <font size="+1"><img border="0" src="../ltletter/l.gif" width="31" height="37">ost 
+            <font size="+1">Lost 
             and Found</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -141,7 +141,7 @@
               </tr>
             </table></center>
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/q.gif" width="30" height="37">uotation</font></p>
+              <font size="+1">Quotation</font></p>
             <center>
               <table width="90%" border="0">
                 <tr> 
@@ -173,7 +173,7 @@
               </table>
             </center>
             <p>
-            <font size="+1"><img border="0" src="../ltletter/a.gif" width="31" height="37">
+            <font size="+1">A
             Touch Late</font></p>
             <center>
 			<table width="90%" border="0">

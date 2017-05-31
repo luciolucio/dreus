@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Thirteen</font></p>
               
             <p><br>
-              <img border="0" src="../ltletter/d.gif" width="31" height="37"><font size="+1">VD 
+              D<font size="+1">VD 
             Madness!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -109,7 +109,7 @@
             <p>
               <br>
               <br>
-            <img border="0" src="../ltletter/i.gif" width="31" height="37"><font size="+1"> Can't Read 
+            I<font size="+1"> Can't Read 
               Your Crazy Moon Language!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -141,7 +141,7 @@
             <p>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/g.gif" width="32" height="37">ord, You 
+            <p><font size="+1">Gord, You 
             Scare Me.</font></p>
             <center><table width="90%" border="0" height="22">
               <tr> 
@@ -167,7 +167,7 @@
             </table></center>
             <p><br>
               <br>
-              <img border="0" src="../ltletter/m.gif" width="30" height="37"><font size="+1">ath Eludes 
+              M<font size="+1">ath Eludes 
             Them.</font></p>
             <center>
               <table width="90%" border="0">
@@ -200,7 +200,7 @@
             </center>
             <p><br>
             </p>
-            <p><img border="0" src="../ltletter/a.gif" width="31" height="37"><font size="+1">nd He's 
+            <p>A<font size="+1">nd He's 
             Just Plain Retarded.</font></p>
 			
             <center>
@@ -238,7 +238,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><img border="0" src="../ltletter/d.gif" width="31" height="37"><font size="+1">amn 
+            <p>D<font size="+1">amn 
             Retarded Monkeys!</font></p>
             <center>
 			<table width="90%" border="0">

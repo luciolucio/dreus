@@ -68,10 +68,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Six</font></p>
+              <font size="+1">Chapter Six</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/d.gif" width="31" height="37">iscrimination</font></p>
+              <font size="+1">Discrimination</font></p>
             <center><table width="90%" border="0">
               <tr>
                 <td>

@@ -68,10 +68,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter One</font></p>
+              <font size="+1">Chapter One</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/n.gif" width="31" height="37">obody 
+              <font size="+1">Nobody 
             Beats Anyone In The Store But Gord!</font></p>
             <center><table width="90%" border="0">
               <tr>

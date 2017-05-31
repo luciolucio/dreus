@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Five</font></p>
               
             <p><br>
-              <img border="0" src="../ltletter/a.gif" width="31" height="37"><font size="+1"> 
+              A<font size="+1"> 
             Tournament Where Everyone Wins!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -118,7 +118,7 @@
             <p><br>
               <br>
               <br>
-            <img border="0" src="../ltletter/t.gif" width="31" height="37"><font size="+1">hey Would 
+            T<font size="+1">hey Would 
             Never Lie</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -141,7 +141,7 @@
             <p><br>
               <br>
             </p>
-            <p><img border="0" src="../ltletter/w.gif" width="31" height="37"><font size="+1">hy oh 
+            <p>W<font size="+1">hy oh 
             Why?</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -177,7 +177,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img src="../ltletter/t.gif" width="31" height="37">he Hopeless</font></p>
+              <font size="+1">The Hopeless</font></p>
             <center>
               <table width="90%" border="0">
                 <tr> 
@@ -207,7 +207,7 @@
             <p><br>
               <br>
             </p>
-            <p><img border="0" src="../ltletter/e.gif" width="31" height="37"><font size="+1">pisode 
+            <p>E<font size="+1">pisode 
             One = Not Good</font></p>
 			
             <center>
@@ -245,7 +245,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><img border="0" src="../ltletter/w.gif" width="31" height="37"><font size="+1">elcome to 
+            <p>W<font size="+1">elcome to 
             Earth.&nbsp; Get The Hell Out!</font></p>
             <center>
 			<table width="90%" border="0">

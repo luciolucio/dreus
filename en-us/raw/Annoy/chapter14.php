@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Fourteen</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/o.gif" width="31" height="37">h! Oh!&nbsp; 
+              <font size="+1">Oh! Oh!&nbsp; 
             I'm Retarded Too!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -112,7 +112,7 @@
             <p>
               <br>
               <br>
-            <img border="0" src="../ltletter/i.gif" width="31" height="37"><font size="+1"> Make 
+            I<font size="+1"> Make 
               Retarded People Look Smart!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -155,7 +155,7 @@
             <p>
               <br>
             </p>
-            <p><img border="0" src="../ltletter/i.gif" width="31" height="37"><font size="+1"> Only 
+            <p>I<font size="+1"> Only 
             Wish I Was Smart!</font></p>
             <center><table width="90%" border="0" height="22">
               <tr> 
@@ -188,7 +188,7 @@
             </table></center>
             <p><br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/o.gif" width="31" height="37">pen Yours 
+              <font size="+1">Open Yours 
             Eyes Man!</font></p>
             <center>
               <table width="90%" border="0">
@@ -206,7 +206,7 @@
             </center>
             <p><br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/s.gif" width="31" height="37">piritual 
+            <p><font size="+1">Spiritual 
             Engulfment</font></p>
 			
             <center>
@@ -231,7 +231,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><font size="+1"><img border="0" src="../ltletter/n.gif" width="31" height="37">ot Quite 
+            <p><font size="+1">Not Quite 
             Up To Speed</font></p>
             <center>
 			<table width="90%" border="0">

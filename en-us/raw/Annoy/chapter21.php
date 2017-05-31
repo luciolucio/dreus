@@ -69,12 +69,12 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Twenty-One</font></p>
               
             <p><br>
               <font size="+1">
-            <img border="0" src="../ltletter/d.gif" width="31" height="37">on't 
+            Don't 
             Announce Your Evil Plans To The World!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -98,7 +98,7 @@
             <p><br>
               <br>
               <br>
-            <img border="0" src="../ltletter/m.gif" width="30" height="37"><font size="+1">ore 
+            M<font size="+1">ore 
             Notes From The Computer</font></p>
             <center><table width="90%" border="0" height="154">
               <tr>
@@ -123,7 +123,7 @@
             <p><br>
               <br>
             </p>
-            <p><img border="0" src="../ltletter/j.gif" width="31" height="37"><font size="+1">ust 
+            <p>J<font size="+1">ust 
             Sort Of Odd...</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -148,7 +148,7 @@
               </tr>
             </table></center>
             <p><br>
-              <img border="0" src="../ltletter/i.gif" width="31" height="37">t's 
+              It's 
             Just Not Worth It.</p>
             <center>
               <table width="90%" border="0">
@@ -179,7 +179,7 @@
               </table>
             </center>
             <p>
-            <img border="0" src="../ltletter/y.gif" width="32" height="37">esterday's 
+            Yesterday's 
             Games</p>
             <center>
 			<table width="90%" border="0">

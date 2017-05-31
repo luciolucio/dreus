@@ -68,11 +68,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Three</font></p>
               
             <p><br>
-              <img border="0" src="../ltletter/d.gif" width="31" height="37"><font size="+1">on't 
+              D<font size="+1">on't 
             Touch!&nbsp; It's Dangerous!</font></p>
             <center><table width="90%" border="0">
               <tr>

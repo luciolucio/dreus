@@ -68,11 +68,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Four</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/y.gif" width="32" height="37">ou Should 
+              <font size="+1">You Should 
             Have Known My Son Was A Thief!</font></p>
             <center><table width="90%" border="0">
               <tr>

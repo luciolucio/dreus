@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Twenty-Four</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">ime Shift</font></p>
+              <font size="+1">Time Shift</font></p>
             <center><table width="90%" border="0">
               <tr>
                 <td>
@@ -91,7 +91,7 @@
             <p>
             &nbsp;</p>
             <p>
-            <font size="+1"><img border="0" src="../ltletter/w.gif" width="31" height="37">rong Way</font></p>
+            <font size="+1">Wrong Way</font></p>
             <center><table width="90%" border="0" height="154">
               <tr>
                 <td height="150">
@@ -116,7 +116,7 @@
             </table></center>
             <p>&nbsp;</p>
             <p>
-            <font size="+1"><img border="0" src="../ltletter/m.gif" width="30" height="37">ore Computer 
+            <font size="+1">More Computer 
             Notes</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -137,7 +137,7 @@
               </tr>
             </table></center>
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/a.gif" width="31" height="37">dvice 
+              <font size="+1">Advice 
             Unwarranted</font></p>
             <center>
               <table width="90%" border="0">

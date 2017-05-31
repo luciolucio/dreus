@@ -69,12 +69,12 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Twenty</font></p>
               
             <p><br>
               <font size="+1">
-            <img border="0" src="../ltletter/d.gif" width="31" height="37">irect 
+            Direct 
             From The Computer</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -124,7 +124,7 @@
             <p><br>
               <br>
               <br>
-            <font size="+1"><img border="0" src="../ltletter/h.gif" width="31" height="37">ow 
+            <font size="+1">How 
             About More Direct From The Computer</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -151,7 +151,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/a.gif" width="31" height="37">t 
+            <p><font size="+1">At 
             Least Pretend To Be Honest</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -175,7 +175,7 @@
               <br>
               <br>
               <font size="+1">
-            <img border="0" src="../ltletter/i.gif" width="31" height="37">f 
+            If 
             Only Gord Was More Thankful</font></p>
             <center>
               <table width="90%" border="0">
@@ -211,7 +211,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/m.gif" width="30" height="37">ore 
+            <p><font size="+1">More 
             Memories...</font></p>
 			
             <center>
@@ -232,7 +232,7 @@
             <p>&nbsp;</p>
             <p>
             <font size="+1">
-            <img border="0" src="../ltletter/t.gif" width="31" height="37">hat 
+            That 
             Would Be A Bad Sound</font></p>
             <center>
 			<table width="90%" border="0">

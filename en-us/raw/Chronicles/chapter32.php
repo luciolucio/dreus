@@ -68,11 +68,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Thirty-Two</font></p>
               
             <p><br>
-              <img border="0" src="../ltletter/y.gif" width="32" height="37"><font size="+1">ou 
+              Y<font size="+1">ou 
             Are A Bad, Bad Man.</font></p>
             <center><table width="90%" border="0">
               <tr>

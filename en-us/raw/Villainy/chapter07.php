@@ -68,11 +68,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Seven</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/b.gif" width="32" height="37">rilliant 
+              <font size="+1">Brilliant 
             Thieves Wanted!&nbsp; Yet Again!</font></p>
             <center><table width="90%" border="0">
               <tr>

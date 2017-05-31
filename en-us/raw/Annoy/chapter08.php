@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Eight</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/d.gif" width="31" height="37">ecepticons</font></p>
+              <font size="+1">Decepticons</font></p>
             <center><table width="90%" border="0">
               <tr>
                 <td>
@@ -106,7 +106,7 @@
             <p><br>
               <br>
               <br>
-            <font size="+1"><img border="0" src="../ltletter/f.gif" width="31" height="37">ree 
+            <font size="+1">Free 
             Internet!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -146,7 +146,7 @@
             <p><br>
               <br>
             </p>
-            <p><img border="0" src="../ltletter/r.gif" width="31" height="37"><font size="+1">ecycle 
+            <p>R<font size="+1">ecycle 
             The Fun!</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -169,7 +169,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/b.gif" width="32" height="37">igscreen 
+              <font size="+1">Bigscreen 
             Madness!</font></p>
             <center>
               <table width="90%" border="0">
@@ -216,7 +216,7 @@
               <br>
             </p>
             <p><font size="+1">
-            <img border="0" src="../ltletter/t.gif" lowsrc="T" alt="T" width="31" height="37">he 
+            The 
             Correct Answer Is Thursday</font></p>
 			
             <center>
@@ -254,7 +254,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><font size="+1"><img border="0" src="../ltletter/s.gif" width="31" height="37">hort 
+            <p><font size="+1">Short 
             Story Madness!</font></p>
             <center>
 			<table width="90%" border="0">

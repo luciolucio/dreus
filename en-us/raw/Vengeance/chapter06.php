@@ -70,10 +70,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Six</font></p>
+              <font size="+1">Chapter Six</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">here Is A 
+              <font size="+1">There Is A 
             Bike Rack Outside For A Reason</font></p>
             <center><table width="90%" border="0">
               <tr>

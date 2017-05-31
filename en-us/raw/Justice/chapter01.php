@@ -67,10 +67,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter One</font></p>
+              <font size="+1">Chapter One</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">he TV Law!</font></p>
+              <font size="+1">The TV Law!</font></p>
             <center><table width="90%" border="0">
               <tr>
                 <td>
@@ -103,7 +103,7 @@
             <p><br>
               <br>
               <br>
-              <img src="../ltletter/i.gif" width="31" height="37"> Have To Help The Hopeless</p>
+              I Have To Help The Hopeless</p>
             <center><table width="90%" border="0">
               <tr>
                 <td>
@@ -143,7 +143,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">he Law 
+            <p><font size="+1">The Law 
             Firm of Nintendo</font></p>
             <center><table width="90%" border="0">
               <tr> 

@@ -80,10 +80,10 @@ td { font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color: #0
               
             <p>
               <font size="+1" face="Times New Roman">
-              <img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Thirty Nine</font></p>
+              Chapter Thirty Nine</font></p>
               
             <p><font face="Times New Roman"><br>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">herry 
+              <font size="+1">Cherry 
             Coke Chronicles</font></font></p>
             <center><table width="90%" border="0">
               <tr>

@@ -70,11 +70,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Five</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/p.gif" width="32" height="37">okemon Love Lost!
+              <font size="+1">Pokemon Love Lost!
               </font></p>
             <center><table width="90%" border="0">
               <tr>

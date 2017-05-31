@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Sixteen</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/a.gif" width="31" height="37"> Simple 
+              <font size="+1">A Simple 
             Plan</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -117,7 +117,7 @@
             <p>
               <br>
               <br>
-              <img border="0" src="../ltletter/a.gif" width="31" height="37"><font size="+1">nother 
+              A<font size="+1">nother 
               Simple Plan</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -176,7 +176,7 @@
             <p>
               <br>
             </p>
-            <p><img border="0" src="../ltletter/i.gif" width="31" height="37"><font size="+1">t Mostly 
+            <p>I<font size="+1">t Mostly 
             Works, But Not Really</font></p>
             <center><table width="90%" border="0" height="22">
               <tr> 
@@ -221,7 +221,7 @@
             </table></center>
             <p><br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/b.gif" width="32" height="37">rief And 
+              <font size="+1">Brief And 
             To The Point</font></p>
             <center>
               <table width="90%" border="0">
@@ -245,7 +245,7 @@
             </center>
             <p><br>
             </p>
-            <p><img border="0" src="../ltletter/b.gif" width="32" height="37"><font size="+1">y Store, 
+            <p>B<font size="+1">y Store, 
             Of Course I Mean Library</font></p>
 			
             <center>
@@ -280,7 +280,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><font size="+1"><img border="0" src="../ltletter/a.gif" width="31" height="37"> Simple 
+            <p><font size="+1">A Simple 
             Answer</font></p>
             <center>
 			<table width="90%" border="0">

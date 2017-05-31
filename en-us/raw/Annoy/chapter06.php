@@ -69,10 +69,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Six</font></p>
+              <font size="+1">Chapter Six</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/e.gif" width="31" height="37">veryone 
+              <font size="+1">Everyone 
             Wants To Share In The Love!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -100,7 +100,7 @@
             <p><br>
               <br>
               <br>
-            <font size="+1"><img border="0" src="../ltletter/i.gif" width="31" height="37">t's Only 
+            <font size="+1">It's Only 
             Dumb If You're Caught</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -135,7 +135,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">ry Before 
+            <p><font size="+1">Try Before 
             You Buy!</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -176,7 +176,7 @@
             <p><br>
               <br>
               <br>
-              <img border="0" src="../ltletter/a.gif" width="31" height="37"><font size="+1">nd 
+              A<font size="+1">nd 
             Gord's The 
             Rip-Off</font></p>
             <center>
@@ -228,7 +228,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/w.gif" width="31" height="37">hy Aren't 
+            <p><font size="+1">Why Aren't 
             My Stolen Games Worth More?</font></p>
 			
             <center>
@@ -260,7 +260,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><img border="0" src="../ltletter/w.gif" width="31" height="37"><font size="+1">hy Aren't 
+            <p>W<font size="+1">hy Aren't 
             Parts Free?</font></p>
             <center>
 			<table width="90%" border="0">

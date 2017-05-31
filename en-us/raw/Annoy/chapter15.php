@@ -68,11 +68,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Fifteen</font></p>
               
             <p><br>
-              <img border="0" src="../ltletter/i.gif" width="31" height="37"><font size="+1">f I Lie, 
+              I<font size="+1">f I Lie, 
             It's Worth More!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -121,7 +121,7 @@
             <p>
               <br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">heap Game 
+              <font size="+1">Cheap Game 
               Mania And A Half!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -166,7 +166,7 @@
             <p>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/l.gif" width="31" height="37">ost Hope 
+            <p><font size="+1">Lost Hope 
             Lost</font></p>
             <center><table width="90%" border="0" height="22">
               <tr> 
@@ -197,7 +197,7 @@
             </table></center>
             <p><br>
               <br>
-              <img border="0" src="../ltletter/c.gif" width="32" height="37"><font size="+1">harge It!</font></p>
+              C<font size="+1">harge It!</font></p>
             <center>
               <table width="90%" border="0">
                 <tr> 
@@ -233,7 +233,7 @@
             <p><br>
             </p>
             <p><font size="+1">
-            <img border="0" src="../ltletter/i.gif" lowsrc="I" alt="I" width="31" height="37">t's So 
+            It's So 
             Complicated!</font></p>
 			
             <center>
@@ -280,7 +280,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><font size="+1"><img border="0" src="../ltletter/m.gif" width="30" height="37">ore Cheap 
+            <p><font size="+1">More Cheap 
             Madness!</font></p>
             <center>
 			<table width="90%" border="0">

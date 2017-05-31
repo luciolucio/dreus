@@ -67,10 +67,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter One</font></p>
+              <font size="+1">Chapter One</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">he Coming 
+              <font size="+1">The Coming 
             Darkness</font></p>
             <center><table width="90%" border="0">
               <tr>

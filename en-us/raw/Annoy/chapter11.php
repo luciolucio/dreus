@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Eleven</font></p>
               
             <p><br>
-              <img border="0" src="../ltletter/t.gif" width="31" height="37"><font size="+1">rade You 
+              T<font size="+1">rade You 
             Copper For Gold?</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -106,7 +106,7 @@
             <p><br>
               <br>
               <br>
-            <font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">rade You 
+            <font size="+1">Trade You 
             Gold For Copper!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -129,7 +129,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/h.gif" width="31" height="37">e Forgot 
+            <p><font size="+1">He Forgot 
             His Gold!</font></p>
             <center><table width="90%" border="0" height="99">
               <tr> 
@@ -155,7 +155,7 @@
             <p><br>
               <br>
               <br>
-              <img border="0" src="../ltletter/n.gif" width="31" height="37"><font size="+1">o Gold For 
+              N<font size="+1">o Gold For 
             Me!</font></p>
             <center>
               <table width="90%" border="0">
@@ -180,7 +180,7 @@
             <p><br>
               <br>
             </p>
-            <p><img border="0" src="../ltletter/n.gif" width="31" height="37"><font size="+1">o Pot Of 
+            <p>N<font size="+1">o Pot Of 
             Gold For You!</font></p>
 			
             <center>
@@ -218,7 +218,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><img border="0" src="../ltletter/o.gif" width="31" height="37"><font size="+1">r You 
+            <p>O<font size="+1">r You 
             Either!</font></p>
             <center>
 			<table width="90%" border="0">

@@ -68,11 +68,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Twenty Seven</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/g.gif" width="32" height="37">ord's 
+              <font size="+1">Gord's 
             Babysitting Service</font></p>
             <center><table width="90%" border="0">
               <tr>

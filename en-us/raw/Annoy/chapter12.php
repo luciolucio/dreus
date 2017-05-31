@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Twelve</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/g.gif" width="32" height="37">ive Me My 
+              <font size="+1">Give Me My 
             Gold Back!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -115,7 +115,7 @@
             <p>
               <br>
               <br>
-            <img border="0" src="../ltletter/i.gif" width="31" height="37"><font size="+1"> Want Free 
+            I<font size="+1"> Want Free 
             Gold!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -142,7 +142,7 @@
             <p>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/a.gif" width="31" height="37">mateurs</font></p>
+            <p><font size="+1">Amateurs</font></p>
             <center><table width="90%" border="0" height="22">
               <tr> 
                 <td height="18"> 
@@ -171,7 +171,7 @@
             </table></center>
             <p><br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/r.gif" width="31" height="37">un Forrest 
+              <font size="+1">Run Forrest 
             Run!</font></p>
             <center>
               <table width="90%" border="0">
@@ -194,7 +194,7 @@
             </center>
             <p><br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">he Magic 
+            <p><font size="+1">The Magic 
             Box Of Gold!</font></p>
 			
             <center>
@@ -250,7 +250,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><font size="+1"><img border="0" src="../ltletter/w.gif" width="31" height="37">hy Yes, I 
+            <p><font size="+1">Why Yes, I 
             Make Money Not Selling Games</font></p>
             <center>
 			<table width="90%" border="0">

@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Three</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/i.gif" width="31" height="37">ntellecual 
+              <font size="+1">Intellecual 
             Osmosis</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -95,7 +95,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/f.gif" width="31" height="37">ree Game 
+              <font size="+1">Free Game 
             Love Action!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -136,7 +136,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/m.gif" width="30" height="37">y Parents 
+            <p><font size="+1">My Parents 
             Won't Let Me</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -159,7 +159,7 @@
             <p><br>
               <br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/w.gif" width="31" height="37">ith 
+              <font size="+1">With 
             Parents Like This...</font></p>
             <center>
               <table width="90%" border="0">
@@ -219,7 +219,7 @@
             <p><br>
               <br>
             </p>
-            <p><font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">hey Must 
+            <p><font size="+1">They Must 
             Have it!</font></p>
 			
             <center>
@@ -248,7 +248,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-          <p><img border="0" src="../ltletter/o.gif" width="31" height="37"><font size="4">ther Things They Must Have</font></p>
+          <p>O<font size="4">ther Things They Must Have</font></p>
             <center>
 			<table width="461" border="0" height="80">
               <tr>

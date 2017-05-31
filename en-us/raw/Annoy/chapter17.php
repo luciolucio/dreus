@@ -69,11 +69,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Seventeen</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/p.gif" width="32" height="37">lease Love 
+              <font size="+1">Please Love 
             Me</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -105,7 +105,7 @@
             <p>
               <br>
               <br>
-              <img border="0" src="../ltletter/p.gif" width="32" height="37"><font size="+1">ants On 
+              P<font size="+1">ants On 
               Fire!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -138,7 +138,7 @@
             <p>
               <br>
             </p>
-            <p><img border="0" src="../ltletter/t.gif" width="31" height="37"><font size="+1">he Big 
+            <p>T<font size="+1">he Big 
             Twofer!</font></p>
             <center><table width="90%" border="0" height="22">
               <tr> 
@@ -177,7 +177,7 @@
             </table></center>
             <p><br>
               <br>
-              <font size="+1"><img border="0" src="../ltletter/o.gif" width="31" height="37">dd Duck</font></p>
+              <font size="+1">Odd Duck</font></p>
             <center>
               <table width="90%" border="0">
                 <tr> 
@@ -205,7 +205,7 @@
             </center>
             <p><br>
             </p>
-            <p><img border="0" src="../ltletter/d.gif" width="31" height="37"><font size="+1">own With 
+            <p>D<font size="+1">own With 
             Big Brother!</font></p>
 			
             <center>
@@ -243,7 +243,7 @@
               </table>
             </center>
             <p>&nbsp;</p>
-            <p><font size="+1"><img border="0" src="../ltletter/n.gif" width="31" height="37">ote To 
+            <p><font size="+1">Note To 
             Self:</font></p>
             <center>
 			<table width="90%" border="0">

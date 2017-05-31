@@ -68,10 +68,10 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter Two</font></p>
+              <font size="+1">Chapter Two</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/t.gif" width="31" height="37">he Sega 
+              <font size="+1">The Sega 
             Saturn Super System!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -117,7 +117,7 @@
             <p><br>
               <br>
               <br>
-              <font size="4"><img border="0" src="../ltletter/t.gif" width="31" height="37">he Sega 
+              <font size="4">The Sega 
             Saturn Super System Continued!</font></p>
             <center><table width="90%" border="0">
               <tr>
@@ -168,7 +168,7 @@
             <p><br>
               <br>
             </p>
-            <p><img border="0" src="../ltletter/i.gif" width="31" height="37"><font size="+1">n The 
+            <p>I<font size="+1">n The 
             End, It Had A Use</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -195,7 +195,7 @@
             <p><br>
               <br>
               <br>
-              <img border="0" src="../ltletter/i.gif" width="31" height="37"><font size="+1">t's All In 
+              I<font size="+1">t's All In 
             The Attitude</font></p>
             <center>
               <table width="90%" border="0">

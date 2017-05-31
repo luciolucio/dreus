@@ -79,12 +79,12 @@ td { font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color: #0
             </center>
               
             <p>
-              <font size="+1" face="Times New Roman"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1" face="Times New Roman">Chapter 
               Twenty-Five</font></p>
               
             <p><font face="Times New Roman"><br>
               <font size="+1">
-            <img border="0" src="../ltletter/s.gif" width="31" height="37">linkee</font></font></p>
+            Slinkee</font></font></p>
             <center><table width="90%" border="0">
               <tr>
                 <td>
@@ -127,7 +127,7 @@ td { font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color: #0
               </tr>
             </table></center>
             <p><font size="+1" face="Times New Roman">
-            <img border="0" src="../ltletter/o.gif" width="31" height="37">ver 
+            Over 
             an Open Fire</font></p>
             <center><table width="90%" border="0" height="154">
               <tr>
@@ -163,7 +163,7 @@ td { font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color: #0
             </font>
             </p>
             <p><font size="+1" face="Times New Roman">
-            <img border="0" src="../ltletter/t.gif" width="31" height="37">V 
+            TV 
             Opportunities</font></p>
             <center><table width="90%" border="0">
               <tr> 
@@ -201,7 +201,7 @@ td { font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color: #0
             </table></center>
             <p><font face="Times New Roman"><br>
               <font size="+1">
-            <img border="0" src="../ltletter/f.gif" width="31" height="37">oreshadowing 
+            Foreshadowing 
             Again</font></font></p>
             <center>
               <table width="90%" border="0">

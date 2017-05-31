@@ -68,11 +68,11 @@
             </center>
               
             <p>
-              <font size="+1"><img border="0" src="../ltletter/c.gif" width="32" height="37">hapter 
+              <font size="+1">Chapter 
               Five</font></p>
               
             <p><br>
-              <font size="+1"><img border="0" src="../ltletter/a.gif" width="31" height="37">l Bundy 
+              <font size="+1">Al Bundy 
             Inspired Gord!</font></p>
             <center><table width="90%" border="0">
               <tr>
